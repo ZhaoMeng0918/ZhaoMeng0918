@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="http://zxmzappletqiniusave.echobs.cn/index-bg.jpg" /></a></p>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="./assets/gh-readme-header.jpg" /></a></p>
 
 <br />
 
