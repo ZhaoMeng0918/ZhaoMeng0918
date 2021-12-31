@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="./assets/header_.png" /></a></p>
+<p align="center"><img width="80%" src="./assets/header_.png" /></p>
 
 <br />
 
