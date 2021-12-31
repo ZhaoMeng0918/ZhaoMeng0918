@@ -1,7 +1,3 @@
-<p align="center"><img width="80%" src="./assets/header_.png" /></p>
-
-<br />
-
 The way to get profound knowledge and grand morality is so far that I will search them from the paradise to the hell wholeheartedly.
 
 **About me**
