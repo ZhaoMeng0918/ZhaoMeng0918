@@ -1,4 +1,4 @@
-The way to get profound knowledge and grand morality is so far that I will search them from the paradise to the hell wholeheartedly.
+路漫漫其修远兮，吾将上下而求索！
 
 **About me**
 
