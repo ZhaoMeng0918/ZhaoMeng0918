@@ -1,13 +1,13 @@
 路漫漫其修远兮，吾将上下而求索！
 
-**About me**
+**关于我**
 
-- 💼 Students studying at Sichuan Normal University
+- 💼 目前就读于四川师范大学电子信息专业，研究生一年纪
 
-- 📈 Built github-readme-stats, verlyjs and more, **0m+** hits • **0K** stars on GitHub...(I will do my best)
+- 📈 方向：Java后端
 
-- ❤️ I like to use code to realize my ideas, and it is convenient for others
+- ❤️ 正在学习：JVM、JUC、Redis、SpringCloud
 
-- 💬 Ask me about anything [here](https://github.com/ZhaoMeng0918/ZhaoMeng0918/issues)
+- 💬 目标：西安荣耀
 
 ![](https://github-readme-stats.vercel.app/api?username=ZhaoMeng0918&show_icons=true&count_private=true)
