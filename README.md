@@ -11,3 +11,5 @@
 - ❤️ 目标：西安荣耀
 
 ![](https://github-readme-stats.vercel.app/api?username=ZhaoMeng0918&show_icons=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/wakatime?username=zhaomeng0918&layout=compact&langs_count=8&theme=tokyonight&v=2)
